@@ -103,9 +103,9 @@
 ### Areas of focus
 
 ```text
-Local LLM Benchmarking  ████████████████████░   quality, latency, VRAM, quantization
-Dev Tooling             ██████████████████░░░░   self-hosted remote terminal, tmux
-Applied ML & CV         ████████████████░░░░░   face-detect, OCR, defect detection
-Full-Stack Apps         ██████████████░░░░░░░   React + Node/Python, assignments
-Data Science            ████████████░░░░░░░░░   EDA, CV, notebooks, RAG
+Local LLM Benchmarking  ████████████████████  quality, latency, VRAM, quantization
+Dev Tooling             ██████████████████··  self-hosted remote terminal, tmux
+Applied ML & CV         ████████████████····  face-detect, OCR, defect detection
+Full-Stack Apps         ██████████████······  React + Node/Python, assignments
+Data Science            ████████████········  EDA, CV, notebooks, RAG
 ```
